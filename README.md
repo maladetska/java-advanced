@@ -1,6 +1,6 @@
 # java-advanced
  
-[Условия домашних заданий](https://www.kgeorgiy.info/courses/prog-intro/homeworks.html)
+[Условия домашних заданий](https://www.kgeorgiy.info/courses/java-advanced/homeworks.html)
 
 [Тесты](https://github.com/maladetska/java-advanced/tree/main/tests)
 
