@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Maria Okorochkova
+Main-Class: info.kgeorgiy.ja.okorochkova.implementor.Implementor
+Class-Path: ./../java-advanced-2023/artifacts/info.kgeorgiy.java.advanced.implementor.jar
